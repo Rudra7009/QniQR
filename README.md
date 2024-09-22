@@ -20,11 +20,11 @@ Ensure you have the following installed on your machine:
 - Python 3.x
 - Pip (Python package manager)
 
-### Installation
+## Installation
 
 1. **Clone the Repository:**
    ```bash
-   git clone <[repository_url](https://github.com/Rudra7009/QniQR)>
+   git clone <https://github.com/Rudra7009/QniQR>
    cd UniQR
 2. **Create a Virtual Environment (optional but recommended):**
    ```bash
@@ -38,24 +38,24 @@ Ensure you have the following installed on your machine:
    
    pip install pandas qrcode[pil] smtplib
 
-### Configuration
+## Configuration
 Update the email configuration in main.py:
 
 - Sender Email: Your email address
 - Password: Your email password (consider using an app password for security)
 
-### Running the Application
+## Running the Application
 To deploy this project run
 
 ```bash
   python main.py
 ```
-### Acknowledgments
+## Acknowledgments
 - Pandas for data manipulation
 - qrcode for QR code generation
 - smtplib for email functionality
 
-### CSV File Format
+## CSV File Format
 
 Prepare a CSV file named `attendees.csv` with the following format:
 ```bash
@@ -63,8 +63,8 @@ Email,Roll Number,Name
 kushwaharudraksha@gmail.com,2201921520123,Rudraksha
 csai22156@glbitm.ac.in,2201921520122,Rudraksha
 ```
-### Screenshots
-- Screenshot of sent Email 
+## Screenshots
+### Screenshot of sent Email 
 ![App Screenshot](img1.png)
-- Generated Sample QR Code
+### Generated Sample QR Code
 ![QR Code Example](img2.png)
