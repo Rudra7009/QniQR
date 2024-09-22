@@ -63,7 +63,8 @@ Email,Roll Number,Name
 kushwaharudraksha@gmail.com,2201921520123,Rudraksha
 csai22156@glbitm.ac.in,2201921520122,Rudraksha
 ```
-## Screenshots
-
+### Screenshots
+- Screenshot of sent Email 
 ![App Screenshot](img1.png)
+- Generated Sample QR Code
 ![QR Code Example](img2.png)
