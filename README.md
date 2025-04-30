@@ -57,7 +57,7 @@ To deploy this project run
 
 ## CSV File Format
 
-Prepare a CSV file named `attendees.csv` with the following format:
+Prepare a CSV file named `attendees.csv` with the following format :
 ```bash
 Email,Roll Number,Name
 kushwaharudraksha@gmail.com,2201921520123,Rudraksha
